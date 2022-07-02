@@ -15,7 +15,12 @@
 
 - 📫 How to reach me **meetmayuresh@outlook.com**
 
+- 📄 Check out my resume here [shorturl.at/buGPV](shorturl.at/buGPV)
+
 - ⚡ Fun fact **I did my college graduation project in Image processing, since then I am enjoying my journey as programmer.**
+
+- ⚡ Fun fact 2 **I am an autodiadact learner. Everything I know I learned on my own by building things.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
