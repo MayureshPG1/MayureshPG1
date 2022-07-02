@@ -1,10 +1,6 @@
 <h1 align="center">Hello 👋, I'm Mayuresh PG</h1>
 <h3 align="center">Senior software engineer with 15+ years of hands-on software development experience in Computer Vision, Deep learning, Algorithms, and Robotics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayureshpg1&label=Profile%20views&color=0e75b6&style=flat" alt="mayureshpg1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayureshpg1" alt="mayureshpg1" /></a> </p>
-
 - 🔭 I’m currently working on **Human 3d shape pose using Deep learning**
 
 - 🌱 I’m currently learning **Typescript, nodejs**
